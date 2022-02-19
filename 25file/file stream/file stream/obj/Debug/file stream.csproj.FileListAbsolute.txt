@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\file stream\file stream\bin\Debug\file stream.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\file stream\file stream\bin\Debug\file stream.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\file stream\file stream\bin\Debug\file stream.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\file stream\file stream\obj\Debug\file stream.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\file stream\file stream\obj\Debug\file stream.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\file stream\file stream\obj\Debug\file stream.csprojResolveAssemblyReference.cache

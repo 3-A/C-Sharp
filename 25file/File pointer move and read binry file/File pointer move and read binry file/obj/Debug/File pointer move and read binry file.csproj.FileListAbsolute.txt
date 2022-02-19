@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\File pointer move and read binry file\File pointer move and read binry file\bin\Debug\File pointer move and read binry file.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\File pointer move and read binry file\File pointer move and read binry file\bin\Debug\File pointer move and read binry file.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\File pointer move and read binry file\File pointer move and read binry file\bin\Debug\File pointer move and read binry file.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\File pointer move and read binry file\File pointer move and read binry file\obj\Debug\File pointer move and read binry file.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\File pointer move and read binry file\File pointer move and read binry file\obj\Debug\File pointer move and read binry file.pdb

@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\17 Inheritance\inheritance simple\inheritance simple\bin\Debug\inheritance simple.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\17 Inheritance\inheritance simple\inheritance simple\bin\Debug\inheritance simple.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\17 Inheritance\inheritance simple\inheritance simple\bin\Debug\inheritance simple.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\17 Inheritance\inheritance simple\inheritance simple\obj\Debug\inheritance simple.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\17 Inheritance\inheritance simple\inheritance simple\obj\Debug\inheritance simple.pdb

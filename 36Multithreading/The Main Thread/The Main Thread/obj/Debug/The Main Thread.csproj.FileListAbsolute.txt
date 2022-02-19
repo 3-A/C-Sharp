@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\36Multithreading\The Main Thread\The Main Thread\bin\Debug\The Main Thread.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\36Multithreading\The Main Thread\The Main Thread\bin\Debug\The Main Thread.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\36Multithreading\The Main Thread\The Main Thread\bin\Debug\The Main Thread.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\36Multithreading\The Main Thread\The Main Thread\obj\Debug\The Main Thread.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\36Multithreading\The Main Thread\The Main Thread\obj\Debug\The Main Thread.pdb

@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\get a list of invalid file characters\get a list of invalid file characters\bin\Debug\get a list of invalid file characters.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\get a list of invalid file characters\get a list of invalid file characters\bin\Debug\get a list of invalid file characters.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\get a list of invalid file characters\get a list of invalid file characters\bin\Debug\get a list of invalid file characters.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\get a list of invalid file characters\get a list of invalid file characters\obj\Debug\get a list of invalid file characters.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\get a list of invalid file characters\get a list of invalid file characters\obj\Debug\get a list of invalid file characters.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\get a list of invalid file characters\get a list of invalid file characters\obj\Debug\get a list of invalid file characters.pdb

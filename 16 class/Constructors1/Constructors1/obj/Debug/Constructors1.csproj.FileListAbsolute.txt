@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Constructors1\Constructors1\bin\Debug\Constructors1.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Constructors1\Constructors1\bin\Debug\Constructors1.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Constructors1\Constructors1\bin\Debug\Constructors1.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Constructors1\Constructors1\obj\Debug\Constructors1.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Constructors1\Constructors1\obj\Debug\Constructors1.pdb

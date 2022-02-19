@@ -1,0 +1,10 @@
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\Windows 124\Windows 124\bin\Debug\Windows 124.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows 124\Windows 124\bin\Debug\Windows 124.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows 124\Windows 124\bin\Debug\Windows 124.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows 124\Windows 124\bin\Debug\Windows 124.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows 124\Windows 124\obj\Debug\Windows 124.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows 124\Windows 124\obj\Debug\Windows_124.Form1.resources
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows 124\Windows 124\obj\Debug\Windows_124.Properties.Resources.resources
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows 124\Windows 124\obj\Debug\Windows 124.csproj.GenerateResource.Cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows 124\Windows 124\obj\Debug\Windows 124.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows 124\Windows 124\obj\Debug\Windows 124.pdb

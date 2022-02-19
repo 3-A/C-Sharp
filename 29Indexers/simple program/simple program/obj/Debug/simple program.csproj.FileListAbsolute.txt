@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Indexers\simple program\simple program\bin\Debug\simple program.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Indexers\simple program\simple program\bin\Debug\simple program.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Indexers\simple program\simple program\bin\Debug\simple program.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Indexers\simple program\simple program\obj\Debug\simple program.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Indexers\simple program\simple program\obj\Debug\simple program.pdb

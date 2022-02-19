@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\generic class\generic class\bin\Debug\generic class.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\generic class\generic class\bin\Debug\generic class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\generic class\generic class\bin\Debug\generic class.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\generic class\generic class\obj\Debug\generic class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\generic class\generic class\obj\Debug\generic class.pdb

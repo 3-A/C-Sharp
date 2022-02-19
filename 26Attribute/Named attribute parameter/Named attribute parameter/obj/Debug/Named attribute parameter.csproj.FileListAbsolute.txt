@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\Named attribute parameter\Named attribute parameter\bin\Debug\Named attribute parameter.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\Named attribute parameter\Named attribute parameter\bin\Debug\Named attribute parameter.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\Named attribute parameter\Named attribute parameter\bin\Debug\Named attribute parameter.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\Named attribute parameter\Named attribute parameter\obj\Debug\Named attribute parameter.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\Named attribute parameter\Named attribute parameter\obj\Debug\Named attribute parameter.pdb

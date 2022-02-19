@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\member function as static\member function as static\bin\Debug\member function as static.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\member function as static\member function as static\bin\Debug\member function as static.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\member function as static\member function as static\bin\Debug\member function as static.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\member function as static\member function as static\obj\Debug\member function as static.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\member function as static\member function as static\obj\Debug\member function as static.pdb

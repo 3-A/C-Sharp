@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\2Exception Handling\Creating User-Defined Exceptions\Creating User-Defined Exceptions\bin\Debug\Creating User-Defined Exceptions.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\2Exception Handling\Creating User-Defined Exceptions\Creating User-Defined Exceptions\bin\Debug\Creating User-Defined Exceptions.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\2Exception Handling\Creating User-Defined Exceptions\Creating User-Defined Exceptions\bin\Debug\Creating User-Defined Exceptions.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\2Exception Handling\Creating User-Defined Exceptions\Creating User-Defined Exceptions\obj\Debug\Creating User-Defined Exceptions.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\2Exception Handling\Creating User-Defined Exceptions\Creating User-Defined Exceptions\obj\Debug\Creating User-Defined Exceptions.pdb

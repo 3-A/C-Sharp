@@ -1,0 +1,13 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\pointer by ref\pointer by ref\bin\Debug\pointer by ref.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\pointer by ref\pointer by ref\bin\Debug\pointer by ref.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\pointer by ref\pointer by ref\bin\Debug\pointer by ref.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\pointer by ref\pointer by ref\obj\Debug\pointer by ref.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\pointer by ref\pointer by ref\obj\Debug\pointer by ref.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\pointer by ref\pointer by ref\obj\Debug\pointer by ref.pdb
+D:\Csharp\pointer by ref\pointer by ref\bin\Debug\pointer by ref.exe.config
+D:\Csharp\pointer by ref\pointer by ref\bin\Debug\pointer by ref.exe
+D:\Csharp\pointer by ref\pointer by ref\bin\Debug\pointer by ref.pdb
+D:\Csharp\pointer by ref\pointer by ref\obj\Debug\pointer by ref.csprojAssemblyReference.cache
+D:\Csharp\pointer by ref\pointer by ref\obj\Debug\pointer by ref.csproj.CoreCompileInputs.cache
+D:\Csharp\pointer by ref\pointer by ref\obj\Debug\pointer by ref.exe
+D:\Csharp\pointer by ref\pointer by ref\obj\Debug\pointer by ref.pdb

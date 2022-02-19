@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\22Preprocessor Directives\Conditional Directives\Conditional Directives\bin\Debug\Conditional Directives.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\22Preprocessor Directives\Conditional Directives\Conditional Directives\bin\Debug\Conditional Directives.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\22Preprocessor Directives\Conditional Directives\Conditional Directives\bin\Debug\Conditional Directives.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\22Preprocessor Directives\Conditional Directives\Conditional Directives\obj\Debug\Conditional Directives.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\22Preprocessor Directives\Conditional Directives\Conditional Directives\obj\Debug\Conditional Directives.pdb

@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\Collection Stack Class\Collection Stack Class\bin\Debug\Collection Stack Class.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\Collection Stack Class\Collection Stack Class\bin\Debug\Collection Stack Class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\Collection Stack Class\Collection Stack Class\bin\Debug\Collection Stack Class.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\Collection Stack Class\Collection Stack Class\obj\Debug\Collection Stack Class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\Collection Stack Class\Collection Stack Class\obj\Debug\Collection Stack Class.pdb

@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\34Anonymous Method\Writing an Anonymous Method\Writing an Anonymous Method\bin\Debug\Writing an Anonymous Method.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\34Anonymous Method\Writing an Anonymous Method\Writing an Anonymous Method\bin\Debug\Writing an Anonymous Method.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\34Anonymous Method\Writing an Anonymous Method\Writing an Anonymous Method\bin\Debug\Writing an Anonymous Method.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\34Anonymous Method\Writing an Anonymous Method\Writing an Anonymous Method\obj\Debug\Writing an Anonymous Method.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\34Anonymous Method\Writing an Anonymous Method\Writing an Anonymous Method\obj\Debug\Writing an Anonymous Method.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\34Anonymous Method\Writing an Anonymous Method\Writing an Anonymous Method\obj\Debug\Writing an Anonymous Method.csprojResolveAssemblyReference.cache

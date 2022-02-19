@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\1generics\1generics\bin\Debug\1generics.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\1generics\1generics\bin\Debug\1generics.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\1generics\1generics\bin\Debug\1generics.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\1generics\1generics\obj\Debug\1generics.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\1generics\1generics\obj\Debug\1generics.pdb

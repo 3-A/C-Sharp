@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\28Properties\first Properties\first Properties\bin\Debug\first Properties.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\28Properties\first Properties\first Properties\bin\Debug\first Properties.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\28Properties\first Properties\first Properties\bin\Debug\first Properties.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\28Properties\first Properties\first Properties\obj\Debug\first Properties.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\28Properties\first Properties\first Properties\obj\Debug\first Properties.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\28Properties\first Properties\first Properties\obj\Debug\first Properties.pdb

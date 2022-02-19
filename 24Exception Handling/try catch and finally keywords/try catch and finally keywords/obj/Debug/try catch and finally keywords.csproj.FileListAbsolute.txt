@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\2Exception Handling\try catch and finally keywords\try catch and finally keywords\bin\Debug\try catch and finally keywords.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\2Exception Handling\try catch and finally keywords\try catch and finally keywords\bin\Debug\try catch and finally keywords.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\2Exception Handling\try catch and finally keywords\try catch and finally keywords\bin\Debug\try catch and finally keywords.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\2Exception Handling\try catch and finally keywords\try catch and finally keywords\obj\Debug\try catch and finally keywords.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\2Exception Handling\try catch and finally keywords\try catch and finally keywords\obj\Debug\try catch and finally keywords.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\2Exception Handling\try catch and finally keywords\try catch and finally keywords\obj\Debug\try catch and finally keywords.pdb

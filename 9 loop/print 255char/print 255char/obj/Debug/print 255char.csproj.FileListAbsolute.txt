@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\print 255char\print 255char\bin\Debug\print 255char.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\print 255char\print 255char\bin\Debug\print 255char.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\print 255char\print 255char\bin\Debug\print 255char.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\print 255char\print 255char\obj\Debug\print 255char.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\print 255char\print 255char\obj\Debug\print 255char.pdb

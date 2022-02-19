@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\exple match word start with S\exple match word start with S\bin\Debug\exple match word start with S.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\exple match word start with S\exple match word start with S\bin\Debug\exple match word start with S.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\exple match word start with S\exple match word start with S\bin\Debug\exple match word start with S.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\exple match word start with S\exple match word start with S\obj\Debug\exple match word start with S.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\exple match word start with S\exple match word start with S\obj\Debug\exple match word start with S.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\exple match word start with S\exple match word start with S\obj\Debug\exple match word start with S.pdb

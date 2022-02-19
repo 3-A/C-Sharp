@@ -1,0 +1,31 @@
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\my word\my word\bin\Debug\my word.exe.config
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\my word\my word\bin\Debug\my word.exe
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\my word\my word\bin\Debug\my word.pdb
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\my word\my word\obj\Debug\my word.csprojResolveAssemblyReference.cache
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\my word\my word\obj\Debug\my_word.FrmMain.resources
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\my word\my word\obj\Debug\my_word.FrmChild.resources
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\my word\my word\obj\Debug\my_word.Properties.Resources.resources
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\my word\my word\obj\Debug\my word.csproj.GenerateResource.Cache
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\my word\my word\obj\Debug\my word.exe
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\my word\my word\obj\Debug\my word.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\my word\my word\bin\Debug\my word.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\my word\my word\obj\Debug\my word.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\my word\my word\obj\Debug\my word.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\my word\my word\bin\Debug\my word.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\my word\my word\bin\Debug\my word.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\my word\my word\obj\Debug\my word.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\my word\my word\obj\Debug\my_word.FrmMain.resources
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\my word\my word\obj\Debug\my_word.FrmChild.resources
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\my word\my word\obj\Debug\my_word.Properties.Resources.resources
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\my word\my word\obj\Debug\my word.csproj.GenerateResource.Cache
+D:\Csharp\my word\my word\bin\Debug\my word.exe.config
+D:\Csharp\my word\my word\bin\Debug\my word.exe
+D:\Csharp\my word\my word\bin\Debug\my word.pdb
+D:\Csharp\my word\my word\obj\Debug\my word.csprojAssemblyReference.cache
+D:\Csharp\my word\my word\obj\Debug\my_word.FrmMain.resources
+D:\Csharp\my word\my word\obj\Debug\my_word.FrmChild.resources
+D:\Csharp\my word\my word\obj\Debug\my_word.Properties.Resources.resources
+D:\Csharp\my word\my word\obj\Debug\my word.csproj.GenerateResource.cache
+D:\Csharp\my word\my word\obj\Debug\my word.csproj.CoreCompileInputs.cache
+D:\Csharp\my word\my word\obj\Debug\my word.exe
+D:\Csharp\my word\my word\obj\Debug\my word.pdb

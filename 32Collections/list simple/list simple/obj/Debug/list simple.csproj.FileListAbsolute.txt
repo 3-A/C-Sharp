@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\list simple\list simple\bin\Debug\list simple.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\list simple\list simple\bin\Debug\list simple.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\list simple\list simple\bin\Debug\list simple.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\list simple\list simple\obj\Debug\list simple.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\list simple\list simple\obj\Debug\list simple.pdb

@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\10try\10try\bin\Debug\10try.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\10try\10try\bin\Debug\10try.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\10try\10try\bin\Debug\10try.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\10try\10try\obj\Debug\10try.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\10try\10try\obj\Debug\10try.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\10try\10try\obj\Debug\10try.pdb

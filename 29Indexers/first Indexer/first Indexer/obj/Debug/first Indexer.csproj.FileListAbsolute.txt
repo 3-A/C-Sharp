@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Indexers\first Indexer\first Indexer\bin\Debug\first Indexer.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Indexers\first Indexer\first Indexer\bin\Debug\first Indexer.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Indexers\first Indexer\first Indexer\bin\Debug\first Indexer.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Indexers\first Indexer\first Indexer\obj\Debug\first Indexer.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Indexers\first Indexer\first Indexer\obj\Debug\first Indexer.pdb

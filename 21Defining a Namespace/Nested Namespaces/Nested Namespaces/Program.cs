@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using first_space;
+using first_space.second_space;
+
+namespace first_space
+           {////
+              class abc  {  public void func()   {  Console.WriteLine("Inside first_space");     }   } 
+           
+    namespace second_space
+           {
+              class efg  {  public void func()   {  Console.WriteLine("Inside second_space");    }   }
+           }
+           }////
+class TestClass
+{
+   static void Main(string[] args)
+   {
+       abc fc = new abc();          fc.func();
+       efg sc = new efg();          sc.func();
+      Console.ReadKey();
+   }
+}
+

@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\15Enum\first  Enum\first  Enum\bin\Debug\first  Enum.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\15Enum\first  Enum\first  Enum\bin\Debug\first  Enum.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\15Enum\first  Enum\first  Enum\bin\Debug\first  Enum.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\15Enum\first  Enum\first  Enum\obj\Debug\first  Enum.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\15Enum\first  Enum\first  Enum\obj\Debug\first  Enum.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\15Enum\first  Enum\first  Enum\obj\Debug\first  Enum.csprojResolveAssemblyReference.cache

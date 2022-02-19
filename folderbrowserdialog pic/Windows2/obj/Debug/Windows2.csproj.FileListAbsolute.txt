@@ -1,0 +1,30 @@
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\Windows2\Windows2\bin\Debug\Windows2.exe.config
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\Windows2\Windows2\bin\Debug\Windows2.exe
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\Windows2\Windows2\bin\Debug\Windows2.pdb
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\Windows2\Windows2\obj\Debug\Windows2.Form1.resources
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\Windows2\Windows2\obj\Debug\Windows2.Properties.Resources.resources
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\Windows2\Windows2\obj\Debug\Windows2.csproj.GenerateResource.Cache
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\Windows2\Windows2\obj\Debug\Windows2.exe
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\Windows2\Windows2\obj\Debug\Windows2.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows2\Windows2\bin\Debug\Windows2.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows2\Windows2\obj\Debug\Windows2.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows2\Windows2\obj\Debug\Windows2.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows2\Windows2\bin\Debug\Windows2.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows2\Windows2\bin\Debug\Windows2.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows2\Windows2\obj\Debug\Windows2.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows2\Windows2\obj\Debug\Windows2.Form1.resources
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows2\Windows2\obj\Debug\Windows2.Properties.Resources.resources
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows2\Windows2\obj\Debug\Windows2.csproj.GenerateResource.Cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\folderbrowserdialog pic\Windows2\bin\Debug\Windows2.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\folderbrowserdialog pic\Windows2\obj\Debug\Windows2.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\folderbrowserdialog pic\Windows2\obj\Debug\Windows2.pdb
+D:\Csharp\folderbrowserdialog pic\Windows2\bin\Debug\Windows2.exe.config
+D:\Csharp\folderbrowserdialog pic\Windows2\bin\Debug\Windows2.exe
+D:\Csharp\folderbrowserdialog pic\Windows2\bin\Debug\Windows2.pdb
+D:\Csharp\folderbrowserdialog pic\Windows2\obj\Debug\Windows2.csprojAssemblyReference.cache
+D:\Csharp\folderbrowserdialog pic\Windows2\obj\Debug\Windows2.Form1.resources
+D:\Csharp\folderbrowserdialog pic\Windows2\obj\Debug\Windows2.Properties.Resources.resources
+D:\Csharp\folderbrowserdialog pic\Windows2\obj\Debug\Windows2.csproj.GenerateResource.cache
+D:\Csharp\folderbrowserdialog pic\Windows2\obj\Debug\Windows2.csproj.CoreCompileInputs.cache
+D:\Csharp\folderbrowserdialog pic\Windows2\obj\Debug\Windows2.exe
+D:\Csharp\folderbrowserdialog pic\Windows2\obj\Debug\Windows2.pdb

@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\Declaring Interfaces\Declaring Interfaces\bin\Debug\Declaring Interfaces.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\Declaring Interfaces\Declaring Interfaces\bin\Debug\Declaring Interfaces.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\Declaring Interfaces\Declaring Interfaces\bin\Debug\Declaring Interfaces.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\Declaring Interfaces\Declaring Interfaces\obj\Debug\Declaring Interfaces.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\Declaring Interfaces\Declaring Interfaces\obj\Debug\Declaring Interfaces.pdb

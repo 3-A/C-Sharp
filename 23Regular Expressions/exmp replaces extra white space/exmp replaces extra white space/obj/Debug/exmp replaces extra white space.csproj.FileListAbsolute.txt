@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\exmp replaces extra white space\exmp replaces extra white space\bin\Debug\exmp replaces extra white space.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\exmp replaces extra white space\exmp replaces extra white space\bin\Debug\exmp replaces extra white space.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\exmp replaces extra white space\exmp replaces extra white space\bin\Debug\exmp replaces extra white space.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\exmp replaces extra white space\exmp replaces extra white space\obj\Debug\exmp replaces extra white space.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\exmp replaces extra white space\exmp replaces extra white space\obj\Debug\exmp replaces extra white space.pdb

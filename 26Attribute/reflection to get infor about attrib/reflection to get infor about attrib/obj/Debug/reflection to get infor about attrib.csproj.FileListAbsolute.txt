@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\reflection to get infor about attrib\reflection to get infor about attrib\bin\Debug\reflection to get infor about attrib.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\reflection to get infor about attrib\reflection to get infor about attrib\bin\Debug\reflection to get infor about attrib.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\reflection to get infor about attrib\reflection to get infor about attrib\bin\Debug\reflection to get infor about attrib.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\reflection to get infor about attrib\reflection to get infor about attrib\obj\Debug\reflection to get infor about attrib.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\reflection to get infor about attrib\reflection to get infor about attrib\obj\Debug\reflection to get infor about attrib.pdb

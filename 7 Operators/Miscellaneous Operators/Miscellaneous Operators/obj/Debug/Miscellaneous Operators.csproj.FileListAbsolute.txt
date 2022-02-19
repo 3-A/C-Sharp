@@ -1,0 +1,17 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Miscellaneous Operators\Miscellaneous Operators\bin\Debug\Miscellaneous Operators.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Miscellaneous Operators\Miscellaneous Operators\bin\Debug\Miscellaneous Operators.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Miscellaneous Operators\Miscellaneous Operators\bin\Debug\Miscellaneous Operators.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Miscellaneous Operators\Miscellaneous Operators\obj\Debug\Miscellaneous Operators.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Miscellaneous Operators\Miscellaneous Operators\obj\Debug\Miscellaneous Operators.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Miscellaneous Operators\Miscellaneous Operators\bin\Debug\Miscellaneous Operators.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Miscellaneous Operators\Miscellaneous Operators\obj\Debug\Miscellaneous Operators.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Miscellaneous Operators\Miscellaneous Operators\obj\Debug\Miscellaneous Operators.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Miscellaneous Operators\Miscellaneous Operators\bin\Debug\Miscellaneous Operators.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Miscellaneous Operators\Miscellaneous Operators\bin\Debug\Miscellaneous Operators.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Miscellaneous Operators\Miscellaneous Operators\obj\Debug\Miscellaneous Operators.csprojResolveAssemblyReference.cache
+D:\Csharp\7 Operators\Miscellaneous Operators\Miscellaneous Operators\bin\Debug\Miscellaneous Operators.exe.config
+D:\Csharp\7 Operators\Miscellaneous Operators\Miscellaneous Operators\bin\Debug\Miscellaneous Operators.exe
+D:\Csharp\7 Operators\Miscellaneous Operators\Miscellaneous Operators\bin\Debug\Miscellaneous Operators.pdb
+D:\Csharp\7 Operators\Miscellaneous Operators\Miscellaneous Operators\obj\Debug\Miscellaneous Operators.csproj.CoreCompileInputs.cache
+D:\Csharp\7 Operators\Miscellaneous Operators\Miscellaneous Operators\obj\Debug\Miscellaneous Operators.exe
+D:\Csharp\7 Operators\Miscellaneous Operators\Miscellaneous Operators\obj\Debug\Miscellaneous Operators.pdb

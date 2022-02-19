@@ -1,0 +1,1 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\35Unsafe Codes\Passing Pointr as Prmeter to Methd\Passing Pointr as Prmeter to Methd\bin\Debug\Passing Pointr as Prmeter to Methd.exe.config

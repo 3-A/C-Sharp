@@ -1,0 +1,9 @@
+array              we know type & size
+arraylist          we not know type & size
+list               we know type not know size
+
+
+/* how defiend array in c#
+ * int [] x = new int [5]................1
+ * int [] x = new int [5] {1,2,3,4,5}....2
+ * int [] x = {1,2,3,4,5}................3 */ 

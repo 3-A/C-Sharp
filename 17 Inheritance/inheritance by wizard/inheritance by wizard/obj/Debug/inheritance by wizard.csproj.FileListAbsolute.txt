@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\17 Inheritance\inheritance by wizard\inheritance by wizard\bin\Debug\inheritance by wizard.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\17 Inheritance\inheritance by wizard\inheritance by wizard\bin\Debug\inheritance by wizard.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\17 Inheritance\inheritance by wizard\inheritance by wizard\bin\Debug\inheritance by wizard.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\17 Inheritance\inheritance by wizard\inheritance by wizard\obj\Debug\inheritance by wizard.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\17 Inheritance\inheritance by wizard\inheritance by wizard\obj\Debug\inheritance by wizard.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\17 Inheritance\inheritance by wizard\inheritance by wizard\obj\Debug\inheritance by wizard.pdb

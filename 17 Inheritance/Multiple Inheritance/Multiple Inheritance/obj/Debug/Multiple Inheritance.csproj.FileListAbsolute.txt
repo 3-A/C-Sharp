@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\Multiple Inheritance\Multiple Inheritance\bin\Debug\Multiple Inheritance.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\Multiple Inheritance\Multiple Inheritance\bin\Debug\Multiple Inheritance.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\Multiple Inheritance\Multiple Inheritance\bin\Debug\Multiple Inheritance.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\Multiple Inheritance\Multiple Inheritance\obj\Debug\Multiple Inheritance.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\Multiple Inheritance\Multiple Inheritance\obj\Debug\Multiple Inheritance.pdb

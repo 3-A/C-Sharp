@@ -1,0 +1,12 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Internal Access Specifier\Internal Access Specifier\bin\Debug\Internal Access Specifier.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Internal Access Specifier\Internal Access Specifier\bin\Debug\Internal Access Specifier.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Internal Access Specifier\Internal Access Specifier\bin\Debug\Internal Access Specifier.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Internal Access Specifier\Internal Access Specifier\obj\Debug\Internal Access Specifier.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Internal Access Specifier\Internal Access Specifier\obj\Debug\Internal Access Specifier.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Internal Access Specifier\Internal Access Specifier\obj\Debug\Internal Access Specifier.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Internal Access Specifier\Internal Access Specifier\bin\Debug\Internal Access Specifier.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Internal Access Specifier\Internal Access Specifier\obj\Debug\Internal Access Specifier.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Internal Access Specifier\Internal Access Specifier\obj\Debug\Internal Access Specifier.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Internal Access Specifier\Internal Access Specifier\bin\Debug\Internal Access Specifier.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Internal Access Specifier\Internal Access Specifier\bin\Debug\Internal Access Specifier.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Internal Access Specifier\Internal Access Specifier\obj\Debug\Internal Access Specifier.csprojResolveAssemblyReference.cache

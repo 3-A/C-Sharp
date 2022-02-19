@@ -1,0 +1,12 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.csprojResolveAssemblyReference.cache

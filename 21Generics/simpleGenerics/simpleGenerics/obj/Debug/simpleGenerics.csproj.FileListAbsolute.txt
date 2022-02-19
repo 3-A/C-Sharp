@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\21Generics\simpleGenerics\simpleGenerics\bin\Debug\simpleGenerics.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\21Generics\simpleGenerics\simpleGenerics\bin\Debug\simpleGenerics.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\21Generics\simpleGenerics\simpleGenerics\bin\Debug\simpleGenerics.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\21Generics\simpleGenerics\simpleGenerics\obj\Debug\simpleGenerics.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\21Generics\simpleGenerics\simpleGenerics\obj\Debug\simpleGenerics.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\21Generics\simpleGenerics\simpleGenerics\obj\Debug\simpleGenerics.pdb

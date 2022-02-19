@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\start with m and ends with e\start with m and ends with e\bin\Debug\start with m and ends with e.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\start with m and ends with e\start with m and ends with e\bin\Debug\start with m and ends with e.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\start with m and ends with e\start with m and ends with e\bin\Debug\start with m and ends with e.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\start with m and ends with e\start with m and ends with e\obj\Debug\start with m and ends with e.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\23Regular Expressions\start with m and ends with e\start with m and ends with e\obj\Debug\start with m and ends with e.pdb

@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\String Contains String\String Contains String\bin\Debug\String Contains String.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\String Contains String\String Contains String\bin\Debug\String Contains String.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\String Contains String\String Contains String\bin\Debug\String Contains String.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\String Contains String\String Contains String\obj\Debug\String Contains String.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\String Contains String\String Contains String\obj\Debug\String Contains String.pdb

@@ -1,0 +1,1 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\35Unsafe Codes\Accessing Array Elements Use Pointr\Accessing Array Elements Use Pointr\bin\Debug\Accessing Array Elements Use Pointr.exe.config

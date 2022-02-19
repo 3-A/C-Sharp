@@ -1,0 +1,18 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Arithmatic Operators\Arithmatic Operators\bin\Debug\Arithmatic Operators.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Arithmatic Operators\Arithmatic Operators\bin\Debug\Arithmatic Operators.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Arithmatic Operators\Arithmatic Operators\bin\Debug\Arithmatic Operators.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Arithmatic Operators\Arithmatic Operators\bin\Debug\Arithmatic Operators.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Arithmatic Operators\Arithmatic Operators\bin\Debug\Arithmatic Operators.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Arithmatic Operators\Arithmatic Operators\bin\Debug\Arithmatic Operators.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.csprojResolveAssemblyReference.cache
+D:\Csharp\7 Operators\Arithmatic Operators\Arithmatic Operators\bin\Debug\Arithmatic Operators.exe.config
+D:\Csharp\7 Operators\Arithmatic Operators\Arithmatic Operators\bin\Debug\Arithmatic Operators.exe
+D:\Csharp\7 Operators\Arithmatic Operators\Arithmatic Operators\bin\Debug\Arithmatic Operators.pdb
+D:\Csharp\7 Operators\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.csprojAssemblyReference.cache
+D:\Csharp\7 Operators\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.csproj.CoreCompileInputs.cache
+D:\Csharp\7 Operators\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.exe
+D:\Csharp\7 Operators\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.pdb

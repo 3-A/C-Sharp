@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Read from a text one buffer at a time\Read from a text one buffer at a time\bin\Debug\Read from a text one buffer at a time.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Read from a text one buffer at a time\Read from a text one buffer at a time\bin\Debug\Read from a text one buffer at a time.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Read from a text one buffer at a time\Read from a text one buffer at a time\bin\Debug\Read from a text one buffer at a time.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Read from a text one buffer at a time\Read from a text one buffer at a time\obj\Debug\Read from a text one buffer at a time.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Read from a text one buffer at a time\Read from a text one buffer at a time\obj\Debug\Read from a text one buffer at a time.pdb

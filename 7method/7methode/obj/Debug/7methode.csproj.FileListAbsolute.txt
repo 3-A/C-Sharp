@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\7methode\7methode\bin\Debug\7methode.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\7methode\7methode\bin\Debug\7methode.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\7methode\7methode\bin\Debug\7methode.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\7methode\7methode\obj\Debug\7methode.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\7methode\7methode\obj\Debug\7methode.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\7methode\7methode\obj\Debug\7methode.pdb

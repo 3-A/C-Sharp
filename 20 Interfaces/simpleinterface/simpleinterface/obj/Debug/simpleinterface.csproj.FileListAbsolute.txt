@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\simpleinterface\simpleinterface\bin\Debug\simpleinterface.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\simpleinterface\simpleinterface\bin\Debug\simpleinterface.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\simpleinterface\simpleinterface\bin\Debug\simpleinterface.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\simpleinterface\simpleinterface\obj\Debug\simpleinterface.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\simpleinterface\simpleinterface\obj\Debug\simpleinterface.pdb

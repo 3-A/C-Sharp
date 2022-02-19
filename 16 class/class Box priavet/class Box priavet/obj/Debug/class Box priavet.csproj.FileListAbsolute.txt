@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box priavet\class Box priavet\bin\Debug\class Box priavet.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box priavet\class Box priavet\bin\Debug\class Box priavet.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box priavet\class Box priavet\bin\Debug\class Box priavet.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box priavet\class Box priavet\obj\Debug\class Box priavet.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box priavet\class Box priavet\obj\Debug\class Box priavet.pdb

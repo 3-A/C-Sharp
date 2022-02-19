@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\simple example\simple example\bin\Debug\simple example.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\simple example\simple example\bin\Debug\simple example.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\simple example\simple example\bin\Debug\simple example.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\simple example\simple example\obj\Debug\simple example.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\simple example\simple example\obj\Debug\simple example.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\simple example\simple example\obj\Debug\simple example.csprojResolveAssemblyReference.cache

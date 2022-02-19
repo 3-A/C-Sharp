@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\collection arraylist\collection arraylist\bin\Debug\collection arraylist.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\collection arraylist\collection arraylist\bin\Debug\collection arraylist.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\collection arraylist\collection arraylist\bin\Debug\collection arraylist.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\collection arraylist\collection arraylist\obj\Debug\collection arraylist.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\collection arraylist\collection arraylist\obj\Debug\collection arraylist.pdb

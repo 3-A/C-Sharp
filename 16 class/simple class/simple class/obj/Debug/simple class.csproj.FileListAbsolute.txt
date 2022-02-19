@@ -1,0 +1,11 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\simple class\simple class\bin\Debug\simple class.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\simple class\simple class\bin\Debug\simple class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\simple class\simple class\bin\Debug\simple class.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\simple class\simple class\obj\Debug\simple class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\simple class\simple class\obj\Debug\simple class.pdb
+D:\Csharp\16 class\simple class\simple class\bin\Debug\simple class.exe.config
+D:\Csharp\16 class\simple class\simple class\bin\Debug\simple class.exe
+D:\Csharp\16 class\simple class\simple class\bin\Debug\simple class.pdb
+D:\Csharp\16 class\simple class\simple class\obj\Debug\simple class.csproj.CoreCompileInputs.cache
+D:\Csharp\16 class\simple class\simple class\obj\Debug\simple class.exe
+D:\Csharp\16 class\simple class\simple class\obj\Debug\simple class.pdb

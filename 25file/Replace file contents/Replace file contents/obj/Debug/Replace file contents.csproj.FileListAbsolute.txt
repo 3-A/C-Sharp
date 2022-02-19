@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Replace file contents\Replace file contents\bin\Debug\Replace file contents.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Replace file contents\Replace file contents\bin\Debug\Replace file contents.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Replace file contents\Replace file contents\bin\Debug\Replace file contents.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Replace file contents\Replace file contents\obj\Debug\Replace file contents.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Replace file contents\Replace file contents\obj\Debug\Replace file contents.pdb

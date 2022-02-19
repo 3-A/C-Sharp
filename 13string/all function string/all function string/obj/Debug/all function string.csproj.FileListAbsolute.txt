@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\all function string\all function string\bin\Debug\all function string.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\all function string\all function string\bin\Debug\all function string.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\all function string\all function string\bin\Debug\all function string.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\all function string\all function string\obj\Debug\all function string.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\all function string\all function string\obj\Debug\all function string.pdb

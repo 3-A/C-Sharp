@@ -1,0 +1,2 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\delegate11\delegate11\bin\Debug\delegate11.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\delegate11\delegate11\obj\Debug\delegate11.csprojResolveAssemblyReference.cache

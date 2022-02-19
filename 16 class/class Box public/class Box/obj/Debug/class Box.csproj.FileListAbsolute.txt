@@ -1,0 +1,8 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box\class Box\bin\Debug\class Box.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box\class Box\bin\Debug\class Box.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box\class Box\bin\Debug\class Box.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box\class Box\obj\Debug\class Box.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box\class Box\obj\Debug\class Box.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box public\class Box\bin\Debug\class Box.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box public\class Box\obj\Debug\class Box.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\class Box public\class Box\obj\Debug\class Box.pdb

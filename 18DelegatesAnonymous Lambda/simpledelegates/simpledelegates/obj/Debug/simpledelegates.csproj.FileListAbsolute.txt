@@ -1,0 +1,18 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18Delegates\simpledelegates\simpledelegates\bin\Debug\simpledelegates.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18Delegates\simpledelegates\simpledelegates\bin\Debug\simpledelegates.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18Delegates\simpledelegates\simpledelegates\bin\Debug\simpledelegates.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18Delegates\simpledelegates\simpledelegates\obj\Debug\simpledelegates.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18Delegates\simpledelegates\simpledelegates\obj\Debug\simpledelegates.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18Delegates\simpledelegates\simpledelegates\obj\Debug\simpledelegates.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18DelegatesAnonymousLanda\simpledelegates\simpledelegates\bin\Debug\simpledelegates.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18DelegatesAnonymousLanda\simpledelegates\simpledelegates\obj\Debug\simpledelegates.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18DelegatesAnonymousLanda\simpledelegates\simpledelegates\obj\Debug\simpledelegates.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18DelegatesAnonymousLanda\simpledelegates\simpledelegates\bin\Debug\simpledelegates.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18DelegatesAnonymousLanda\simpledelegates\simpledelegates\bin\Debug\simpledelegates.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18DelegatesAnonymousLanda\simpledelegates\simpledelegates\obj\Debug\simpledelegates.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18DelegatesAnonymous Lambda\simpledelegates\simpledelegates\bin\Debug\simpledelegates.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18DelegatesAnonymous Lambda\simpledelegates\simpledelegates\obj\Debug\simpledelegates.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18DelegatesAnonymous Lambda\simpledelegates\simpledelegates\obj\Debug\simpledelegates.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18DelegatesAnonymous Lambda\simpledelegates\simpledelegates\bin\Debug\simpledelegates.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18DelegatesAnonymous Lambda\simpledelegates\simpledelegates\bin\Debug\simpledelegates.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\18DelegatesAnonymous Lambda\simpledelegates\simpledelegates\obj\Debug\simpledelegates.csprojResolveAssemblyReference.cache

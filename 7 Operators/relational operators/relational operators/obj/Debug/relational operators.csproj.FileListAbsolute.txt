@@ -1,0 +1,10 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\relational operators\relational operators\bin\Debug\relational operators.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\relational operators\relational operators\bin\Debug\relational operators.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\relational operators\relational operators\bin\Debug\relational operators.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\relational operators\relational operators\obj\Debug\relational operators.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\relational operators\relational operators\obj\Debug\relational operators.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\relational operators\relational operators\bin\Debug\relational operators.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\relational operators\relational operators\obj\Debug\relational operators.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\relational operators\relational operators\obj\Debug\relational operators.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\relational operators\relational operators\bin\Debug\relational operators.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\7 Operators\relational operators\relational operators\bin\Debug\relational operators.pdb

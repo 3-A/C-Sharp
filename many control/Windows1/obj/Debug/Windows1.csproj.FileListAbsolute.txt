@@ -1,0 +1,18 @@
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Windows1\Windows1\bin\Debug\Windows1.exe.config
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Windows1\Windows1\bin\Debug\Windows1.exe
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Windows1\Windows1\bin\Debug\Windows1.pdb
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Windows1\Windows1\obj\Debug\Windows1.Form1.resources
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Windows1\Windows1\obj\Debug\Windows1.Properties.Resources.resources
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Windows1\Windows1\obj\Debug\Windows1.csproj.GenerateResource.Cache
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Windows1\Windows1\obj\Debug\Windows1.exe
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Windows1\Windows1\obj\Debug\Windows1.pdb
+C:\Users\uuu\documents\visual studio 2013\Projects\c#\Windows1\Windows1\obj\Debug\Windows1.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows1\Windows1\bin\Debug\Windows1.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows1\Windows1\obj\Debug\Windows1.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows1\Windows1\obj\Debug\Windows1.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows1\Windows1\bin\Debug\Windows1.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows1\Windows1\bin\Debug\Windows1.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows1\Windows1\obj\Debug\Windows1.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows1\Windows1\obj\Debug\Windows1.Form1.resources
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows1\Windows1\obj\Debug\Windows1.Properties.Resources.resources
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows1\Windows1\obj\Debug\Windows1.csproj.GenerateResource.Cache

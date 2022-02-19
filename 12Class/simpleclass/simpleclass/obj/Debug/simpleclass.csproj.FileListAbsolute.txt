@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\12Class\simpleclass\simpleclass\bin\Debug\simpleclass.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\12Class\simpleclass\simpleclass\bin\Debug\simpleclass.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\12Class\simpleclass\simpleclass\bin\Debug\simpleclass.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\12Class\simpleclass\simpleclass\obj\Debug\simpleclass.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\12Class\simpleclass\simpleclass\obj\Debug\simpleclass.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\12Class\simpleclass\simpleclass\obj\Debug\simpleclass.pdb

@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\Get publi static constuctrs from Typ\Get publi static constuctrs from Typ\bin\Debug\Get publi static constuctrs from Typ.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\Get publi static constuctrs from Typ\Get publi static constuctrs from Typ\bin\Debug\Get publi static constuctrs from Typ.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\Get publi static constuctrs from Typ\Get publi static constuctrs from Typ\bin\Debug\Get publi static constuctrs from Typ.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\Get publi static constuctrs from Typ\Get publi static constuctrs from Typ\obj\Debug\Get publi static constuctrs from Typ.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\Get publi static constuctrs from Typ\Get publi static constuctrs from Typ\obj\Debug\Get publi static constuctrs from Typ.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\Get publi static constuctrs from Typ\Get publi static constuctrs from Typ\obj\Debug\Get publi static constuctrs from Typ.pdb

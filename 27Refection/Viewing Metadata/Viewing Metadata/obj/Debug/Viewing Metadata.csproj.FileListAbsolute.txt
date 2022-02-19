@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\Viewing Metadata\Viewing Metadata\bin\Debug\Viewing Metadata.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\Viewing Metadata\Viewing Metadata\bin\Debug\Viewing Metadata.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\Viewing Metadata\Viewing Metadata\bin\Debug\Viewing Metadata.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\Viewing Metadata\Viewing Metadata\obj\Debug\Viewing Metadata.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\Viewing Metadata\Viewing Metadata\obj\Debug\Viewing Metadata.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\Viewing Metadata\Viewing Metadata\obj\Debug\Viewing Metadata.pdb

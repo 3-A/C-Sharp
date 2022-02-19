@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\first expl string\bin\Debug\first expl string.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\first expl string\bin\Debug\first expl string.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\first expl string\bin\Debug\first expl string.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\first expl string\obj\Debug\first expl string.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\first expl string\obj\Debug\first expl string.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\first expl string\obj\Debug\first expl string.pdb

@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Destructors1\Destructors1\bin\Debug\Destructors1.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Destructors1\Destructors1\bin\Debug\Destructors1.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Destructors1\Destructors1\bin\Debug\Destructors1.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Destructors1\Destructors1\obj\Debug\Destructors1.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Destructors1\Destructors1\obj\Debug\Destructors1.pdb

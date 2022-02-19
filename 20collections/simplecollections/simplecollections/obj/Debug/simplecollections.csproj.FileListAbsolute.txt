@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\20collections\simplecollections\simplecollections\bin\Debug\simplecollections.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\20collections\simplecollections\simplecollections\bin\Debug\simplecollections.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\20collections\simplecollections\simplecollections\bin\Debug\simplecollections.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\20collections\simplecollections\simplecollections\obj\Debug\simplecollections.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\20collections\simplecollections\simplecollections\obj\Debug\simplecollections.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\20collections\simplecollections\simplecollections\obj\Debug\simplecollections.pdb

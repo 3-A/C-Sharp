@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\parameterized constructors\parameterized constructors\bin\Debug\parameterized constructors.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\parameterized constructors\parameterized constructors\bin\Debug\parameterized constructors.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\parameterized constructors\parameterized constructors\bin\Debug\parameterized constructors.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\parameterized constructors\parameterized constructors\obj\Debug\parameterized constructors.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\parameterized constructors\parameterized constructors\obj\Debug\parameterized constructors.pdb

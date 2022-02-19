@@ -1,0 +1,5 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Operators Precedence\Operators Precedence\bin\Debug\Operators Precedence.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Operators Precedence\Operators Precedence\bin\Debug\Operators Precedence.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Operators Precedence\Operators Precedence\bin\Debug\Operators Precedence.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Operators Precedence\Operators Precedence\obj\Debug\Operators Precedence.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Operators Precedence\Operators Precedence\obj\Debug\Operators Precedence.pdb

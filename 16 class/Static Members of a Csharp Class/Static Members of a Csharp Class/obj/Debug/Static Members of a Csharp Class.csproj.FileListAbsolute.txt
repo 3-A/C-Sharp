@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Static Members of a Csharp Class\Static Members of a Csharp Class\bin\Debug\Static Members of a Csharp Class.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Static Members of a Csharp Class\Static Members of a Csharp Class\bin\Debug\Static Members of a Csharp Class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Static Members of a Csharp Class\Static Members of a Csharp Class\bin\Debug\Static Members of a Csharp Class.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Static Members of a Csharp Class\Static Members of a Csharp Class\obj\Debug\Static Members of a Csharp Class.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Static Members of a Csharp Class\Static Members of a Csharp Class\obj\Debug\Static Members of a Csharp Class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Static Members of a Csharp Class\Static Members of a Csharp Class\obj\Debug\Static Members of a Csharp Class.pdb

@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\Lucky Numbers\Lucky Numbers\bin\Debug\Lucky Numbers.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\Lucky Numbers\Lucky Numbers\bin\Debug\Lucky Numbers.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\Lucky Numbers\Lucky Numbers\bin\Debug\Lucky Numbers.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\Lucky Numbers\Lucky Numbers\obj\Debug\Lucky Numbers.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\Lucky Numbers\Lucky Numbers\obj\Debug\Lucky Numbers.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\Lucky Numbers\Lucky Numbers\obj\Debug\Lucky Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Bitwise Operators\Bitwise Operators\bin\Debug\Bitwise Operators.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Bitwise Operators\Bitwise Operators\bin\Debug\Bitwise Operators.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Bitwise Operators\Bitwise Operators\bin\Debug\Bitwise Operators.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Bitwise Operators\Bitwise Operators\obj\Debug\Bitwise Operators.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Bitwise Operators\Bitwise Operators\obj\Debug\Bitwise Operators.pdb

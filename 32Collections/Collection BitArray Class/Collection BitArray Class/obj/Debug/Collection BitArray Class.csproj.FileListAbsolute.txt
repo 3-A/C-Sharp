@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\Collection BitArray Class\Collection BitArray Class\bin\Debug\Collection BitArray Class.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\Collection BitArray Class\Collection BitArray Class\bin\Debug\Collection BitArray Class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\Collection BitArray Class\Collection BitArray Class\bin\Debug\Collection BitArray Class.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\Collection BitArray Class\Collection BitArray Class\obj\Debug\Collection BitArray Class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\Collection BitArray Class\Collection BitArray Class\obj\Debug\Collection BitArray Class.pdb

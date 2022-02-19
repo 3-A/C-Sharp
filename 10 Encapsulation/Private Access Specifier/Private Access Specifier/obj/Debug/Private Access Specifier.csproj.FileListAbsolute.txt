@@ -1,0 +1,10 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Private Access Specifier\Private Access Specifier\bin\Debug\Private Access Specifier.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Private Access Specifier\Private Access Specifier\bin\Debug\Private Access Specifier.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Private Access Specifier\Private Access Specifier\bin\Debug\Private Access Specifier.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Private Access Specifier\Private Access Specifier\obj\Debug\Private Access Specifier.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Private Access Specifier\Private Access Specifier\obj\Debug\Private Access Specifier.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Private Access Specifier\Private Access Specifier\bin\Debug\Private Access Specifier.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Private Access Specifier\Private Access Specifier\obj\Debug\Private Access Specifier.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Private Access Specifier\Private Access Specifier\obj\Debug\Private Access Specifier.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Private Access Specifier\Private Access Specifier\bin\Debug\Private Access Specifier.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Encapsulation\Private Access Specifier\Private Access Specifier\bin\Debug\Private Access Specifier.pdb

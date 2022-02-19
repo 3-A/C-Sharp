@@ -1,0 +1,10 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\9 loop\While Loops\While Loops\bin\Debug\While Loops.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\9 loop\While Loops\While Loops\bin\Debug\While Loops.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\9 loop\While Loops\While Loops\bin\Debug\While Loops.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\9 loop\While Loops\While Loops\obj\Debug\While Loops.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\9 loop\While Loops\While Loops\obj\Debug\While Loops.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\While Loops\While Loops\bin\Debug\While Loops.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\While Loops\While Loops\obj\Debug\While Loops.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\While Loops\While Loops\obj\Debug\While Loops.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\While Loops\While Loops\bin\Debug\While Loops.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\While Loops\While Loops\bin\Debug\While Loops.pdb

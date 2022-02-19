@@ -1,0 +1,12 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Delegate\frist Delegate\frist Delegate\bin\Debug\frist Delegate.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Delegate\frist Delegate\frist Delegate\bin\Debug\frist Delegate.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Delegate\frist Delegate\frist Delegate\bin\Debug\frist Delegate.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Delegate\frist Delegate\frist Delegate\obj\Debug\frist Delegate.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Delegate\frist Delegate\frist Delegate\obj\Debug\frist Delegate.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\29Delegate\frist Delegate\frist Delegate\obj\Debug\frist Delegate.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\frist Delegate\frist Delegate\bin\Debug\frist Delegate.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\frist Delegate\frist Delegate\obj\Debug\frist Delegate.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\frist Delegate\frist Delegate\obj\Debug\frist Delegate.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\frist Delegate\frist Delegate\bin\Debug\frist Delegate.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\frist Delegate\frist Delegate\bin\Debug\frist Delegate.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\frist Delegate\frist Delegate\obj\Debug\frist Delegate.csprojResolveAssemblyReference.cache

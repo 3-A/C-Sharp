@@ -1,0 +1,42 @@
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\bin\Debug\Windows132.exe.config
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\obj\Debug\Interop.WMPLib.dll
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\obj\Debug\Windows132.csproj.ResolveComReference.cache
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\bin\Debug\Windows132.exe
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\bin\Debug\Windows132.pdb
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\bin\Debug\Interop.WMPLib.dll
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\obj\Debug\Windows132.csprojResolveAssemblyReference.cache
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\obj\Debug\Windows132.Form1.resources
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\obj\Debug\Windows132.Properties.Resources.resources
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\obj\Debug\Windows132.csproj.GenerateResource.Cache
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\obj\Debug\Windows132.exe
+C:\Users\uuu\Documents\Visual Studio 2013\Projects\c#\Windows132\Windows132\obj\Debug\Windows132.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\bin\Debug\Windows132.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\obj\Debug\Interop.WMPLib.dll
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\obj\Debug\Windows132.csproj.ResolveComReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\obj\Debug\Windows132.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\obj\Debug\Windows132.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\bin\Debug\Windows132.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\bin\Debug\Windows132.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\bin\Debug\Interop.WMPLib.dll
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\obj\Debug\Windows132.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\obj\Debug\Windows132.Form1.resources
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\obj\Debug\Windows132.Properties.Resources.resources
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\Windows wmpaler\Windows132\obj\Debug\Windows132.csproj.GenerateResource.Cache
+D:\Csharp\Windows wmpaler\Windows132\bin\Debug\Windows132.exe.config
+D:\Csharp\Windows wmpaler\Windows132\bin\Debug\Windows132.exe
+D:\Csharp\Windows wmpaler\Windows132\bin\Debug\Windows132.pdb
+D:\Csharp\Windows wmpaler\Windows132\bin\Debug\Interop.WMPLib.dll
+D:\Csharp\Windows wmpaler\Windows132\bin\Debug\AxInterop.WMPLib.dll
+D:\Csharp\Windows wmpaler\Windows132\obj\Debug\Interop.WMPLib.dll
+D:\Csharp\Windows wmpaler\Windows132\obj\Debug\AxInterop.WMPLib.dll
+D:\Csharp\Windows wmpaler\Windows132\obj\Debug\Windows132.csproj.ResolveComReference.cache
+D:\Csharp\Windows wmpaler\Windows132\obj\Debug\Windows132.Form1.resources
+D:\Csharp\Windows wmpaler\Windows132\obj\Debug\Windows132.Properties.Resources.resources
+D:\Csharp\Windows wmpaler\Windows132\obj\Debug\Windows132.csproj.GenerateResource.cache
+D:\Csharp\Windows wmpaler\Windows132\obj\Debug\Windows132.csproj.CoreCompileInputs.cache
+D:\Csharp\Windows wmpaler\Windows132\obj\Debug\Windows132.exe
+D:\Csharp\Windows wmpaler\Windows132\obj\Debug\Windows132.pdb

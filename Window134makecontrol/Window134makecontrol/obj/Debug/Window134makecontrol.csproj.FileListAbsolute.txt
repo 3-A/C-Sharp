@@ -1,0 +1,14 @@
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Window134makecontrol\Window134makecontrol\bin\Debug\Window134makecontrol.dll
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Window134makecontrol\Window134makecontrol\bin\Debug\Window134makecontrol.pdb
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Window134makecontrol\Window134makecontrol\obj\Debug\Window134makecontrol.UserControl1.resources
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Window134makecontrol\Window134makecontrol\obj\Debug\Window134makecontrol.csproj.GenerateResource.Cache
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Window134makecontrol\Window134makecontrol\obj\Debug\Window134makecontrol.dll
+c:\users\uuu\documents\visual studio 2013\Projects\c#\Window134makecontrol\Window134makecontrol\obj\Debug\Window134makecontrol.pdb
+D:\Csharp\Window134makecontrol\Window134makecontrol\bin\Debug\Window134makecontrol.dll
+D:\Csharp\Window134makecontrol\Window134makecontrol\bin\Debug\Window134makecontrol.pdb
+D:\Csharp\Window134makecontrol\Window134makecontrol\obj\Debug\Window134makecontrol.csprojAssemblyReference.cache
+D:\Csharp\Window134makecontrol\Window134makecontrol\obj\Debug\Window134makecontrol.UserControl1.resources
+D:\Csharp\Window134makecontrol\Window134makecontrol\obj\Debug\Window134makecontrol.csproj.GenerateResource.cache
+D:\Csharp\Window134makecontrol\Window134makecontrol\obj\Debug\Window134makecontrol.csproj.CoreCompileInputs.cache
+D:\Csharp\Window134makecontrol\Window134makecontrol\obj\Debug\Window134makecontrol.dll
+D:\Csharp\Window134makecontrol\Window134makecontrol\obj\Debug\Window134makecontrol.pdb

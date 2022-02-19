@@ -1,0 +1,10 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\8 Decision Making\nested switch Statements\nested switch Statements\bin\Debug\nested switch Statements.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\8 Decision Making\nested switch Statements\nested switch Statements\bin\Debug\nested switch Statements.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\8 Decision Making\nested switch Statements\nested switch Statements\bin\Debug\nested switch Statements.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\8 Decision Making\nested switch Statements\nested switch Statements\obj\Debug\nested switch Statements.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\8 Decision Making\nested switch Statements\nested switch Statements\obj\Debug\nested switch Statements.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\8 Decision Making\nested switch Statements\nested switch Statements\bin\Debug\nested switch Statements.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\8 Decision Making\nested switch Statements\nested switch Statements\obj\Debug\nested switch Statements.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\8 Decision Making\nested switch Statements\nested switch Statements\obj\Debug\nested switch Statements.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\8 Decision Making\nested switch Statements\nested switch Statements\bin\Debug\nested switch Statements.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\8 Decision Making\nested switch Statements\nested switch Statements\bin\Debug\nested switch Statements.pdb

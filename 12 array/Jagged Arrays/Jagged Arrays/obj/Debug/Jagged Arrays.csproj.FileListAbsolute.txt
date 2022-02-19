@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Jagged Arrays\Jagged Arrays\bin\Debug\Jagged Arrays.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Jagged Arrays\Jagged Arrays\bin\Debug\Jagged Arrays.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Jagged Arrays\Jagged Arrays\bin\Debug\Jagged Arrays.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Jagged Arrays\Jagged Arrays\obj\Debug\Jagged Arrays.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Jagged Arrays\Jagged Arrays\obj\Debug\Jagged Arrays.pdb

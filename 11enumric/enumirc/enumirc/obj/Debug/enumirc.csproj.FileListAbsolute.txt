@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\11enumric\enumirc\enumirc\bin\Debug\enumirc.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\11enumric\enumirc\enumirc\bin\Debug\enumirc.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\11enumric\enumirc\enumirc\bin\Debug\enumirc.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\11enumric\enumirc\enumirc\obj\Debug\enumirc.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\11enumric\enumirc\enumirc\obj\Debug\enumirc.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\11enumric\enumirc\enumirc\obj\Debug\enumirc.pdb

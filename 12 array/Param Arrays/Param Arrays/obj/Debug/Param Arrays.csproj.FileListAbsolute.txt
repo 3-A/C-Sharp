@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Param Arrays\Param Arrays\bin\Debug\Param Arrays.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Param Arrays\Param Arrays\bin\Debug\Param Arrays.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Param Arrays\Param Arrays\bin\Debug\Param Arrays.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Param Arrays\Param Arrays\obj\Debug\Param Arrays.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Param Arrays\Param Arrays\obj\Debug\Param Arrays.pdb

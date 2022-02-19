@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Passing Arrays as Function Arguments\Passing Arrays as Function Arguments\bin\Debug\Passing Arrays as Function Arguments.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Passing Arrays as Function Arguments\Passing Arrays as Function Arguments\obj\Debug\Passing Arrays as Function Arguments.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Passing Arrays as Function Arguments\Passing Arrays as Function Arguments\bin\Debug\Passing Arrays as Function Arguments.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Passing Arrays as Function Arguments\Passing Arrays as Function Arguments\bin\Debug\Passing Arrays as Function Arguments.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Passing Arrays as Function Arguments\Passing Arrays as Function Arguments\obj\Debug\Passing Arrays as Function Arguments.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\12 array\Passing Arrays as Function Arguments\Passing Arrays as Function Arguments\obj\Debug\Passing Arrays as Function Arguments.pdb

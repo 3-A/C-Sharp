@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\power factorial\power factorial\bin\Debug\power factorial.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\power factorial\power factorial\bin\Debug\power factorial.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\power factorial\power factorial\bin\Debug\power factorial.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\power factorial\power factorial\obj\Debug\power factorial.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\power factorial\power factorial\obj\Debug\power factorial.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\9 loop\power factorial\power factorial\obj\Debug\power factorial.pdb

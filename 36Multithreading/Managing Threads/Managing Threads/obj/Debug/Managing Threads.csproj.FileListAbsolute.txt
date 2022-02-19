@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\36Multithreading\Managing Threads\Managing Threads\bin\Debug\Managing Threads.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\36Multithreading\Managing Threads\Managing Threads\bin\Debug\Managing Threads.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\36Multithreading\Managing Threads\Managing Threads\bin\Debug\Managing Threads.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\36Multithreading\Managing Threads\Managing Threads\obj\Debug\Managing Threads.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\36Multithreading\Managing Threads\Managing Threads\obj\Debug\Managing Threads.pdb

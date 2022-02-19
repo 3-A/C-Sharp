@@ -1,0 +1,13 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\bank\bank\bin\Debug\bank.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\bank\bank\bin\Debug\bank.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\bank\bank\bin\Debug\bank.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\bank\bank\obj\Debug\bank.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\bank\bank\obj\Debug\bank.pdb
+D:\Csharp\16 class\bank\bank\bin\Debug\bank.exe.config
+D:\Csharp\16 class\bank\bank\bin\Debug\bank.exe
+D:\Csharp\16 class\bank\bank\bin\Debug\bank.pdb
+D:\Csharp\16 class\bank\bank\obj\Debug\bank.csprojAssemblyReference.cache
+D:\Csharp\16 class\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+D:\Csharp\16 class\bank\bank\obj\Debug\bank.exe
+D:\Csharp\16 class\bank\bank\obj\Debug\bank.pdb

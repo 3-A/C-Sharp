@@ -1,0 +1,10 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Output\pass parameter by output1\pass parameter by output1\bin\Debug\pass parameter by output1.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Output\pass parameter by output1\pass parameter by output1\bin\Debug\pass parameter by output1.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Output\pass parameter by output1\pass parameter by output1\bin\Debug\pass parameter by output1.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Output\pass parameter by output1\pass parameter by output1\obj\Debug\pass parameter by output1.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Output\pass parameter by output1\pass parameter by output1\obj\Debug\pass parameter by output1.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Output\pass parameter by output1\pass parameter by output1\bin\Debug\pass parameter by output1.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Output\pass parameter by output1\pass parameter by output1\obj\Debug\pass parameter by output1.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Output\pass parameter by output1\pass parameter by output1\obj\Debug\pass parameter by output1.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Output\pass parameter by output1\pass parameter by output1\bin\Debug\pass parameter by output1.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Output\pass parameter by output1\pass parameter by output1\bin\Debug\pass parameter by output1.pdb

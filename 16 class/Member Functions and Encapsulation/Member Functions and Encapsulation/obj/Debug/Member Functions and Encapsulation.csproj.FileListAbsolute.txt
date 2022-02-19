@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Member Functions and Encapsulation\Member Functions and Encapsulation\bin\Debug\Member Functions and Encapsulation.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Member Functions and Encapsulation\Member Functions and Encapsulation\bin\Debug\Member Functions and Encapsulation.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Member Functions and Encapsulation\Member Functions and Encapsulation\bin\Debug\Member Functions and Encapsulation.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Member Functions and Encapsulation\Member Functions and Encapsulation\obj\Debug\Member Functions and Encapsulation.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 class\Member Functions and Encapsulation\Member Functions and Encapsulation\obj\Debug\Member Functions and Encapsulation.pdb

@@ -1,0 +1,10 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Reference\Pass Parameter by Referenc\Pass Parameter by Referenc\bin\Debug\Pass Parameter by Referenc.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Reference\Pass Parameter by Referenc\Pass Parameter by Referenc\bin\Debug\Pass Parameter by Referenc.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Reference\Pass Parameter by Referenc\Pass Parameter by Referenc\bin\Debug\Pass Parameter by Referenc.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Reference\Pass Parameter by Referenc\Pass Parameter by Referenc\obj\Debug\Pass Parameter by Referenc.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Reference\Pass Parameter by Referenc\Pass Parameter by Referenc\obj\Debug\Pass Parameter by Referenc.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Reference\Pass Parameter by Referenc\Pass Parameter by Referenc\bin\Debug\Pass Parameter by Referenc.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Reference\Pass Parameter by Referenc\Pass Parameter by Referenc\bin\Debug\Pass Parameter by Referenc.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Reference\Pass Parameter by Referenc\Pass Parameter by Referenc\bin\Debug\Pass Parameter by Referenc.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Reference\Pass Parameter by Referenc\Pass Parameter by Referenc\obj\Debug\Pass Parameter by Referenc.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Reference\Pass Parameter by Referenc\Pass Parameter by Referenc\obj\Debug\Pass Parameter by Referenc.pdb

@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\Initializing Base Class\Initializing Base Class\bin\Debug\Initializing Base Class.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\Initializing Base Class\Initializing Base Class\bin\Debug\Initializing Base Class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\Initializing Base Class\Initializing Base Class\bin\Debug\Initializing Base Class.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\Initializing Base Class\Initializing Base Class\obj\Debug\Initializing Base Class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\Initializing Base Class\Initializing Base Class\obj\Debug\Initializing Base Class.pdb

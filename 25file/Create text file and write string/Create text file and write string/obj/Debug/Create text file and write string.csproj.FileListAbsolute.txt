@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Create text file and write string\Create text file and write string\bin\Debug\Create text file and write string.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Create text file and write string\Create text file and write string\bin\Debug\Create text file and write string.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Create text file and write string\Create text file and write string\bin\Debug\Create text file and write string.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Create text file and write string\Create text file and write string\obj\Debug\Create text file and write string.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Create text file and write string\Create text file and write string\obj\Debug\Create text file and write string.pdb

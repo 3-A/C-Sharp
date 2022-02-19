@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\18 abstractie\simple abstractie\simple abstractie\bin\Debug\simple abstractie.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\18 abstractie\simple abstractie\simple abstractie\bin\Debug\simple abstractie.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\18 abstractie\simple abstractie\simple abstractie\bin\Debug\simple abstractie.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\18 abstractie\simple abstractie\simple abstractie\obj\Debug\simple abstractie.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\18 abstractie\simple abstractie\simple abstractie\obj\Debug\simple abstractie.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\18 abstractie\simple abstractie\simple abstractie\obj\Debug\simple abstractie.csprojResolveAssemblyReference.cache

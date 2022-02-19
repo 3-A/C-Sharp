@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\34Anonymous Method\anonymous method1\anonymous method1\bin\Debug\anonymous method1.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\34Anonymous Method\anonymous method1\anonymous method1\bin\Debug\anonymous method1.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\34Anonymous Method\anonymous method1\anonymous method1\bin\Debug\anonymous method1.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\34Anonymous Method\anonymous method1\anonymous method1\obj\Debug\anonymous method1.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\34Anonymous Method\anonymous method1\anonymous method1\obj\Debug\anonymous method1.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\34Anonymous Method\anonymous method1\anonymous method1\obj\Debug\anonymous method1.pdb

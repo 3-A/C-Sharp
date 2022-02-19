@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\28Properties\Abstract Properties\Abstract Properties\bin\Debug\Abstract Properties.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\28Properties\Abstract Properties\Abstract Properties\bin\Debug\Abstract Properties.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\28Properties\Abstract Properties\Abstract Properties\bin\Debug\Abstract Properties.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\28Properties\Abstract Properties\Abstract Properties\obj\Debug\Abstract Properties.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\28Properties\Abstract Properties\Abstract Properties\obj\Debug\Abstract Properties.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\28Properties\Abstract Properties\Abstract Properties\obj\Debug\Abstract Properties.pdb

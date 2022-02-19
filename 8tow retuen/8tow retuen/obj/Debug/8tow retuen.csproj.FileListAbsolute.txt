@@ -1,0 +1,5 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\8tow retuen\8tow retuen\bin\Debug\8tow retuen.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\8tow retuen\8tow retuen\bin\Debug\8tow retuen.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\8tow retuen\8tow retuen\bin\Debug\8tow retuen.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\8tow retuen\8tow retuen\obj\Debug\8tow retuen.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\8tow retuen\8tow retuen\obj\Debug\8tow retuen.pdb

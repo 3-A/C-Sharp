@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\collection Queue Class\collection Queue Class\bin\Debug\collection Queue Class.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\collection Queue Class\collection Queue Class\bin\Debug\collection Queue Class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\collection Queue Class\collection Queue Class\bin\Debug\collection Queue Class.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\collection Queue Class\collection Queue Class\obj\Debug\collection Queue Class.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\32Collections\collection Queue Class\collection Queue Class\obj\Debug\collection Queue Class.pdb

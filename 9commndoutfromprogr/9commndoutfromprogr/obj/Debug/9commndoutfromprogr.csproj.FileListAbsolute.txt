@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\9commndoutfromprogr\9commndoutfromprogr\bin\Debug\9commndoutfromprogr.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\9commndoutfromprogr\9commndoutfromprogr\bin\Debug\9commndoutfromprogr.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\9commndoutfromprogr\9commndoutfromprogr\bin\Debug\9commndoutfromprogr.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\9commndoutfromprogr\9commndoutfromprogr\obj\Debug\9commndoutfromprogr.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\9commndoutfromprogr\9commndoutfromprogr\obj\Debug\9commndoutfromprogr.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\9commndoutfromprogr\9commndoutfromprogr\obj\Debug\9commndoutfromprogr.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+c:\users\uuu\documents\visual studio 2013\Projects\c#\clock134\clock134\bin\Debug\clock134.dll
+c:\users\uuu\documents\visual studio 2013\Projects\c#\clock134\clock134\bin\Debug\clock134.pdb
+c:\users\uuu\documents\visual studio 2013\Projects\c#\clock134\clock134\obj\Debug\clock134.csprojResolveAssemblyReference.cache
+c:\users\uuu\documents\visual studio 2013\Projects\c#\clock134\clock134\obj\Debug\clock134.UserControl1.resources
+c:\users\uuu\documents\visual studio 2013\Projects\c#\clock134\clock134\obj\Debug\clock134.csproj.GenerateResource.Cache
+c:\users\uuu\documents\visual studio 2013\Projects\c#\clock134\clock134\obj\Debug\clock134.dll
+c:\users\uuu\documents\visual studio 2013\Projects\c#\clock134\clock134\obj\Debug\clock134.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\clock134\clock134\bin\Debug\clock134.dll
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\clock134\clock134\bin\Debug\clock134.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\clock134\clock134\obj\Debug\clock134.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\clock134\clock134\obj\Debug\clock134.UserControl1.resources
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\clock134\clock134\obj\Debug\clock134.csproj.GenerateResource.Cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\clock134\clock134\obj\Debug\clock134.dll
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\clock134\clock134\obj\Debug\clock134.pdb

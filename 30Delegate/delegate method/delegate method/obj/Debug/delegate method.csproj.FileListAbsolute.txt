@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\delegate method\delegate method\bin\Debug\delegate method.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\delegate method\delegate method\obj\Debug\delegate method.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\delegate method\delegate method\bin\Debug\delegate method.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\delegate method\delegate method\bin\Debug\delegate method.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\delegate method\delegate method\obj\Debug\delegate method.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\30Delegate\delegate method\delegate method\obj\Debug\delegate method.pdb

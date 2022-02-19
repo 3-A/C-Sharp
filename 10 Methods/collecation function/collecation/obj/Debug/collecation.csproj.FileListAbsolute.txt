@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\collecation\collecation\bin\Debug\collecation.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\collecation\collecation\bin\Debug\collecation.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\collecation\collecation\bin\Debug\collecation.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\collecation\collecation\obj\Debug\collecation.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\collecation\collecation\obj\Debug\collecation.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\collecation\collecation\obj\Debug\collecation.csprojResolveAssemblyReference.cache

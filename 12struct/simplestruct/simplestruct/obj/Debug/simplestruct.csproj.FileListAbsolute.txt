@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\12struct\simplestruct\simplestruct\bin\Debug\simplestruct.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\12struct\simplestruct\simplestruct\bin\Debug\simplestruct.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\12struct\simplestruct\simplestruct\bin\Debug\simplestruct.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\12struct\simplestruct\simplestruct\obj\Debug\simplestruct.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\12struct\simplestruct\simplestruct\obj\Debug\simplestruct.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\12struct\simplestruct\simplestruct\obj\Debug\simplestruct.pdb

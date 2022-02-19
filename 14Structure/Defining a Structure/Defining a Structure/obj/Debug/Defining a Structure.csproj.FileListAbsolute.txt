@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\14Structure\Defining a Structure\Defining a Structure\bin\Debug\Defining a Structure.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\14Structure\Defining a Structure\Defining a Structure\bin\Debug\Defining a Structure.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\14Structure\Defining a Structure\Defining a Structure\bin\Debug\Defining a Structure.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\14Structure\Defining a Structure\Defining a Structure\obj\Debug\Defining a Structure.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\14Structure\Defining a Structure\Defining a Structure\obj\Debug\Defining a Structure.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\14Structure\Defining a Structure\Defining a Structure\obj\Debug\Defining a Structure.csprojResolveAssemblyReference.cache

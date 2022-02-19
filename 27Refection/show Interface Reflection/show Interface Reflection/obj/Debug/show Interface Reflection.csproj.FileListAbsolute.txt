@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\show Interface Reflection\show Interface Reflection\bin\Debug\show Interface Reflection.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\show Interface Reflection\show Interface Reflection\bin\Debug\show Interface Reflection.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\show Interface Reflection\show Interface Reflection\bin\Debug\show Interface Reflection.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\show Interface Reflection\show Interface Reflection\obj\Debug\show Interface Reflection.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\show Interface Reflection\show Interface Reflection\obj\Debug\show Interface Reflection.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\27Refection\show Interface Reflection\show Interface Reflection\obj\Debug\show Interface Reflection.pdb

@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\extendclasimplnt intrfaceinsame tim\extendclasimplnt intrfaceinsame tim\bin\Debug\extendclasimplnt intrfaceinsame tim.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\extendclasimplnt intrfaceinsame tim\extendclasimplnt intrfaceinsame tim\bin\Debug\extendclasimplnt intrfaceinsame tim.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\extendclasimplnt intrfaceinsame tim\extendclasimplnt intrfaceinsame tim\bin\Debug\extendclasimplnt intrfaceinsame tim.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\extendclasimplnt intrfaceinsame tim\extendclasimplnt intrfaceinsame tim\obj\Debug\extendclasimplnt intrfaceinsame tim.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\20 Interfaces\extendclasimplnt intrfaceinsame tim\extendclasimplnt intrfaceinsame tim\obj\Debug\extendclasimplnt intrfaceinsame tim.pdb

@@ -1,0 +1,11 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Assignment Operators\Assignment Operators\bin\Debug\Assignment Operators.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Assignment Operators\Assignment Operators\bin\Debug\Assignment Operators.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Assignment Operators\Assignment Operators\bin\Debug\Assignment Operators.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\7 Operators\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.pdb
+D:\Csharp\7 Operators\Assignment Operators\Assignment Operators\bin\Debug\Assignment Operators.exe.config
+D:\Csharp\7 Operators\Assignment Operators\Assignment Operators\bin\Debug\Assignment Operators.exe
+D:\Csharp\7 Operators\Assignment Operators\Assignment Operators\bin\Debug\Assignment Operators.pdb
+D:\Csharp\7 Operators\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.csproj.CoreCompileInputs.cache
+D:\Csharp\7 Operators\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.exe
+D:\Csharp\7 Operators\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.pdb

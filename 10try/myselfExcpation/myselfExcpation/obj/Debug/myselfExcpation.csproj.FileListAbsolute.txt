@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\10try\myselfExcpation\myselfExcpation\bin\Debug\myselfExcpation.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\10try\myselfExcpation\myselfExcpation\bin\Debug\myselfExcpation.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\10try\myselfExcpation\myselfExcpation\bin\Debug\myselfExcpation.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\10try\myselfExcpation\myselfExcpation\obj\Debug\myselfExcpation.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\10try\myselfExcpation\myselfExcpation\obj\Debug\myselfExcpation.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\10try\myselfExcpation\myselfExcpation\obj\Debug\myselfExcpation.csprojResolveAssemblyReference.cache

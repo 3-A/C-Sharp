@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\14properties\simpleproperties\simpleproperties\bin\Debug\simpleproperties.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\14properties\simpleproperties\simpleproperties\bin\Debug\simpleproperties.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\14properties\simpleproperties\simpleproperties\bin\Debug\simpleproperties.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\14properties\simpleproperties\simpleproperties\obj\Debug\simpleproperties.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\14properties\simpleproperties\simpleproperties\obj\Debug\simpleproperties.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\14properties\simpleproperties\simpleproperties\obj\Debug\simpleproperties.pdb

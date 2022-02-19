@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Read the entire text file\Read the entire text file\bin\Debug\Read the entire text file.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Read the entire text file\Read the entire text file\bin\Debug\Read the entire text file.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Read the entire text file\Read the entire text file\bin\Debug\Read the entire text file.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Read the entire text file\Read the entire text file\obj\Debug\Read the entire text file.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\25file\Read the entire text file\Read the entire text file\obj\Debug\Read the entire text file.pdb

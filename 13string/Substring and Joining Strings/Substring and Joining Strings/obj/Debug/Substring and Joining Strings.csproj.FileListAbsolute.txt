@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\Substring and Joining Strings\Substring and Joining Strings\bin\Debug\Substring and Joining Strings.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\Substring and Joining Strings\Substring and Joining Strings\bin\Debug\Substring and Joining Strings.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\Substring and Joining Strings\Substring and Joining Strings\bin\Debug\Substring and Joining Strings.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\Substring and Joining Strings\Substring and Joining Strings\obj\Debug\Substring and Joining Strings.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\13string\Substring and Joining Strings\Substring and Joining Strings\obj\Debug\Substring and Joining Strings.pdb

@@ -1,0 +1,5 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\Generic Delegates\Generic Delegates\bin\Debug\Generic Delegates.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\Generic Delegates\Generic Delegates\bin\Debug\Generic Delegates.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\Generic Delegates\Generic Delegates\bin\Debug\Generic Delegates.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\Generic Delegates\Generic Delegates\obj\Debug\Generic Delegates.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\33Generics\Generic Delegates\Generic Delegates\obj\Debug\Generic Delegates.pdb

@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\obsolete attribute\obsolete attribute\bin\Debug\obsolete attribute.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\obsolete attribute\obsolete attribute\bin\Debug\obsolete attribute.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\obsolete attribute\obsolete attribute\bin\Debug\obsolete attribute.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\obsolete attribute\obsolete attribute\obj\Debug\obsolete attribute.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\obsolete attribute\obsolete attribute\obj\Debug\obsolete attribute.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\26Attribute\obsolete attribute\obsolete attribute\obj\Debug\obsolete attribute.pdb

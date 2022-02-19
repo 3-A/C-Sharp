@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\19LinQ\simpleLinQ\simpleLinQ\bin\Debug\simpleLinQ.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\19LinQ\simpleLinQ\simpleLinQ\bin\Debug\simpleLinQ.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\19LinQ\simpleLinQ\simpleLinQ\bin\Debug\simpleLinQ.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\19LinQ\simpleLinQ\simpleLinQ\obj\Debug\simpleLinQ.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\19LinQ\simpleLinQ\simpleLinQ\obj\Debug\simpleLinQ.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\19LinQ\simpleLinQ\simpleLinQ\obj\Debug\simpleLinQ.pdb

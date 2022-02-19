@@ -1,0 +1,12 @@
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Value\Passing Parameters by Value\Passing Parameters by Value\bin\Debug\Passing Parameters by Value.exe.config
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Value\Passing Parameters by Value\Passing Parameters by Value\bin\Debug\Passing Parameters by Value.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Value\Passing Parameters by Value\Passing Parameters by Value\bin\Debug\Passing Parameters by Value.pdb
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Value\Passing Parameters by Value\Passing Parameters by Value\obj\Debug\Passing Parameters by Value.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Value\Passing Parameters by Value\Passing Parameters by Value\obj\Debug\Passing Parameters by Value.exe
+C:\Users\qqq\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Value\Passing Parameters by Value\Passing Parameters by Value\obj\Debug\Passing Parameters by Value.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Value\Passing Parameters by Value\Passing Parameters by Value\bin\Debug\Passing Parameters by Value.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Value\Passing Parameters by Value\Passing Parameters by Value\obj\Debug\Passing Parameters by Value.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Value\Passing Parameters by Value\Passing Parameters by Value\obj\Debug\Passing Parameters by Value.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Value\Passing Parameters by Value\Passing Parameters by Value\bin\Debug\Passing Parameters by Value.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Value\Passing Parameters by Value\Passing Parameters by Value\bin\Debug\Passing Parameters by Value.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\10 Methods\Passing Parameters by Value\Passing Parameters by Value\Passing Parameters by Value\obj\Debug\Passing Parameters by Value.csprojResolveAssemblyReference.cache

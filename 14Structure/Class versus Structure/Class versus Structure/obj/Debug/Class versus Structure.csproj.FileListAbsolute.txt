@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\14Structure\Class versus Structure\Class versus Structure\bin\Debug\Class versus Structure.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\14Structure\Class versus Structure\Class versus Structure\bin\Debug\Class versus Structure.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\14Structure\Class versus Structure\Class versus Structure\bin\Debug\Class versus Structure.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\14Structure\Class versus Structure\Class versus Structure\obj\Debug\Class versus Structure.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\14Structure\Class versus Structure\Class versus Structure\obj\Debug\Class versus Structure.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\14Structure\Class versus Structure\Class versus Structure\obj\Debug\Class versus Structure.csprojResolveAssemblyReference.cache

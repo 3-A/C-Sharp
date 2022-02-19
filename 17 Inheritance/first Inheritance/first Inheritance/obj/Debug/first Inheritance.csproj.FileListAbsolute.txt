@@ -1,0 +1,6 @@
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\first Inheritance\first Inheritance\bin\Debug\first Inheritance.exe.config
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\first Inheritance\first Inheritance\bin\Debug\first Inheritance.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\first Inheritance\first Inheritance\bin\Debug\first Inheritance.pdb
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\first Inheritance\first Inheritance\obj\Debug\first Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\first Inheritance\first Inheritance\obj\Debug\first Inheritance.exe
+C:\Users\kkk\Documents\Visual Studio 2013\Projects\v c#\16 Inheritance\first Inheritance\first Inheritance\obj\Debug\first Inheritance.pdb

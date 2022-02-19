@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\16Interface\simpleInterface\simpleInterface\bin\Debug\simpleInterface.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\16Interface\simpleInterface\simpleInterface\bin\Debug\simpleInterface.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\16Interface\simpleInterface\simpleInterface\bin\Debug\simpleInterface.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\16Interface\simpleInterface\simpleInterface\obj\Debug\simpleInterface.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\16Interface\simpleInterface\simpleInterface\obj\Debug\simpleInterface.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\16Interface\simpleInterface\simpleInterface\obj\Debug\simpleInterface.pdb

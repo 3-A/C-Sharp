@@ -1,0 +1,6 @@
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\15Indexer\simpleIndexer\simpleIndexer\bin\Debug\simpleIndexer.exe.config
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\15Indexer\simpleIndexer\simpleIndexer\bin\Debug\simpleIndexer.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\15Indexer\simpleIndexer\simpleIndexer\bin\Debug\simpleIndexer.pdb
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\15Indexer\simpleIndexer\simpleIndexer\obj\Debug\simpleIndexer.csprojResolveAssemblyReference.cache
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\15Indexer\simpleIndexer\simpleIndexer\obj\Debug\simpleIndexer.exe
+C:\Users\qqq\Documents\Visual Studio 2015\Projects\v c#\15Indexer\simpleIndexer\simpleIndexer\obj\Debug\simpleIndexer.pdb
